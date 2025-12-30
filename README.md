@@ -319,17 +319,4 @@ Contributions welcome! Please:
 
 **Vedant Konde**  
 📧 Email: vedantkonde09@gmail.com
-
-Built with 🔥 for serious portfolio analytics
-
 ---
-
-## 🏆 Why This Project Works
-
-✅ **Technical Depth**: Real algorithms, not toy examples  
-✅ **Business Context**: Solves actual investment problems  
-✅ **Clean Code**: Production-ready, documented, modular  
-✅ **Measurable Results**: Clear metrics, not hand-waving  
-✅ **Market Ready**: Uses real data from Indian exchanges  
-
-This is portfolio analytics that gets you hired.
